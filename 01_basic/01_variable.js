@@ -15,4 +15,6 @@ console.log(aryaRank);
 /*
 this is for multiline comment 
 */
+
+// console table is the multiple data typle print at a time using "console.table"
 console.table([aryaEmail, aryaPassword, aryaCity, aryaNewCity, aryaMobileNumber])
